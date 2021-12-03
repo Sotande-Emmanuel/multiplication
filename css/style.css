@@ -1,0 +1,39 @@
+tr{
+    background-color: red;
+    border: 2px solid black;
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    background-color: yellow;
+    border-radius: 20px;
+}
+
+table{
+    border: 2px solid black;
+}
+
+td{
+    border: 2px solid black;
+}
+
+
+.num{
+    background-color: blue;
+}
+
+
+
+
+
+
+
+
+
+
